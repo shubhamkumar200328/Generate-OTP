@@ -1,5 +1,10 @@
-# Generate-OTP
+# Generate-OTP: This is a fun project to generate Random Number of 4-digit like OTP
 React frontend project 
+
+### 🚀 Live Preview
+
+**[Random Number Generator on Netlify](https://calm-croissant-46c0ca.netlify.app/)**
+
 
 ![Alt Text](RandomNumberGenerator.png)
 
